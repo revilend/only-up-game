@@ -1,5 +1,5 @@
-[readme.md](https://github.com/user-attachments/files/35232432/readme.md)
- Faqat Tepaga! — 3D Parkur (2000m)
+
+## Faqat Tepaga! — 3D Parkur (2000m)
 
 Brauzer va mobil telefonlar uchun yaratilgan **3D vertikal parkur** o'yini. Yashil o'tloq lobbisidan boshlab Shahar, Bulutlar, Stratosfera, **1000m Oltin Lobbi** hamda **1000m–2000m Kosmos** (Oy Orbitasi, Mars & Asteroidlar, Galaktika Cho'qqisi) orqali eng yuqoriga ko'tariling.
 
